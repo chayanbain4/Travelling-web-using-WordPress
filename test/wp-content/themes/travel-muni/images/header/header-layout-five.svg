@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="50" viewBox="0 0 275 50">
+  <g id="Group_24" data-name="Group 24" transform="translate(-92 -414)">
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(92 414)" fill="#fff" stroke="#c4c4c4" stroke-width="1">
+      <rect width="275" height="50" stroke="none"/>
+      <rect x="0.5" y="0.5" width="274" height="49" fill="none"/>
+    </g>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="275" height="19" transform="translate(92 445)" fill="#c4c4c4"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="42" height="14" transform="translate(100 423)" fill="#f5f5f5"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="31" height="9" transform="translate(328 426)" fill="#f5f5f5"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(3 331)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="9" cy="9" r="9" transform="translate(214 90)" fill="#f5f5f5"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(0 -1)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="30" height="5" transform="translate(180 94)" fill="#f5f5f5"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="39" height="5" transform="translate(171 101)" fill="#f5f5f5"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(236 93)">
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" width="30" height="5" fill="#f5f5f5"/>
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" width="39" height="5" transform="translate(0 7)" fill="#f5f5f5"/>
+      </g>
+    </g>
+  </g>
+</svg>
